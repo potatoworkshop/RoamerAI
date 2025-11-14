@@ -1,0 +1,23 @@
+{
+  "name": "roamerai",
+  "version": "1.0.0",
+  "description": "An AI robots roaming the internet.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potatoworkshop/RoamerAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/potatoworkshop/RoamerAI/issues"
+  },
+  "homepage": "https://github.com/potatoworkshop/RoamerAI#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1"
+  }
+}
